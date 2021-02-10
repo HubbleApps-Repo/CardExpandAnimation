@@ -15,6 +15,7 @@
 		992E772C25C98FA2009B6DAA /* Animation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 992E772A25C98FA2009B6DAA /* Animation.xcdatamodeld */; };
 		992E773725C98FA2009B6DAA /* AnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992E773625C98FA2009B6DAA /* AnimationTests.swift */; };
 		992E774225C98FA2009B6DAA /* AnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992E774125C98FA2009B6DAA /* AnimationUITests.swift */; };
+		993A851C25D45228007F6F22 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993A851B25D45228007F6F22 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		992E773D25C98FA2009B6DAA /* AnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		992E774125C98FA2009B6DAA /* AnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUITests.swift; sourceTree = "<group>"; };
 		992E774325C98FA2009B6DAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		993A851B25D45228007F6F22 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				992E771F25C98F9C009B6DAA /* AnimationApp.swift */,
 				992E772125C98F9C009B6DAA /* ContentView.swift */,
+				993A851B25D45228007F6F22 /* CardView.swift */,
 				992E772325C98FA2009B6DAA /* Assets.xcassets */,
 				992E772825C98FA2009B6DAA /* Persistence.swift */,
 				992E772D25C98FA2009B6DAA /* Info.plist */,
@@ -269,6 +272,7 @@
 				992E772225C98F9C009B6DAA /* ContentView.swift in Sources */,
 				992E772C25C98FA2009B6DAA /* Animation.xcdatamodeld in Sources */,
 				992E772025C98F9C009B6DAA /* AnimationApp.swift in Sources */,
+				993A851C25D45228007F6F22 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
